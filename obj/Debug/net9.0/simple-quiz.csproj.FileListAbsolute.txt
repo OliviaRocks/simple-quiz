@@ -1,0 +1,14 @@
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.AssemblyInfoInputs.cache
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.AssemblyInfo.cs
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.csproj.CoreCompileInputs.cache
+C:\code\simple-quiz\bin\Debug\net9.0\simple-quiz.exe
+C:\code\simple-quiz\bin\Debug\net9.0\simple-quiz.deps.json
+C:\code\simple-quiz\bin\Debug\net9.0\simple-quiz.runtimeconfig.json
+C:\code\simple-quiz\bin\Debug\net9.0\simple-quiz.dll
+C:\code\simple-quiz\bin\Debug\net9.0\simple-quiz.pdb
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.dll
+C:\code\simple-quiz\obj\Debug\net9.0\refint\simple-quiz.dll
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.pdb
+C:\code\simple-quiz\obj\Debug\net9.0\simple-quiz.genruntimeconfig.cache
+C:\code\simple-quiz\obj\Debug\net9.0\ref\simple-quiz.dll
